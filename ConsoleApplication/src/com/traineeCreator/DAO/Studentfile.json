@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "AliceJohnson",
+    "dateOfBirth": "1995-05-15",
+    "joiningDate": "2022-07-20",
+    "password": "pass123",
+    "iDidThis": ["Task A", "Task B", "Task C"],
+    "gems": 15
+  },
+  {
+    "id": 2,
+    "name": "BobSmith",
+    "dateOfBirth": "1993-10-08",
+    "joiningDate": "2023-03-10",
+    "password": "securePass456",
+    "iDidThis": ["Task X", "Task Y"],
+    "gems": 20
+  },
+  {
+    "id": 3,
+    "name": "CharlieBrown",
+    "dateOfBirth": "1998-02-25",
+    "joiningDate": "2021-12-05",
+    "password": "passWord789",
+    "iDidThis": ["Task P", "Task Q", "Task R"],
+    "gems": 8
+  },
+  {
+    "id": 4,
+    "name": "DavidLee",
+    "dateOfBirth": "1990-12-12",
+    "joiningDate": "2024-04-18",
+    "password": "password1234",
+    "iDidThis": ["Task M", "Task N"],
+    "gems": 12
+  },
+  {
+    "id": 5,
+    "name": "EmmaWhite",
+    "dateOfBirth": "1997-08-30",
+    "joiningDate": "2022-01-22",
+    "password": "securePass567",
+    "iDidThis": ["Task Z"],
+    "gems": 25
+  },
+  {
+    "id": 6,
+    "name": "FrankAdams",
+    "dateOfBirth": "1996-06-18",
+    "joiningDate": "2023-11-14",
+    "password": "pass456",
+    "iDidThis": ["Task K", "Task L"],
+    "gems": 18
+  },
+  {
+    "id": 7,
+    "name": "GraceWilson",
+    "dateOfBirth": "1994-04-05",
+    "joiningDate": "2021-09-08",
+    "password": "securePass789",
+    "iDidThis": ["Task S", "Task T", "Task U"],
+    "gems": 30
+  },
+  {
+    "id": 8,
+    "name": "HenryTurner",
+    "dateOfBirth": "1991-11-28",
+    "joiningDate": "2024-06-30",
+    "password": "pass789",
+    "iDidThis": ["Task D"],
+    "gems": 14
+  },
+  {
+    "id": 9,
+    "name": "IvyParker",
+    "dateOfBirth": "1999-03-02",
+    "joiningDate": "2023-02-12",
+    "password": "password5678",
+    "iDidThis": ["Task E", "Task F"],
+    "gems": 22
+  },
+  {
+    "id": 10,
+    "name": "JackMiller",
+    "dateOfBirth": "1992-07-19",
+    "joiningDate": "2021-04-07",
+    "password": "securePass890",
+    "iDidThis": ["Task V"],
+    "gems": 17
+  }
+]
+	
